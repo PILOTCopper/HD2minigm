@@ -1,0 +1,19 @@
+{
+    "players": [
+        {
+            "player": "Example",
+            "playerID": 1234567890,
+            "player_stats": [
+                {
+                    "highscore": 1234567890,
+                    "keys_pressed": 1234567890,
+                    "inputs_correct": 1234567890,
+                    "inputs_wrong": 1234567890,
+                    "attempts": 1234567890,
+                    "time_elapsed": 1234567890.0
+                }
+            ]
+        }
+        
+    ]
+}

@@ -1,0 +1,1 @@
+C:\Users\p1l0t\AppData\Local\Programs\Python\Python312\python.exe C:\Users\p1l0t\Documents\code\Python\HD2minigm\HD2minigm_main.py %*

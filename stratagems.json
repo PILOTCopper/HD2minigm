@@ -1,0 +1,340 @@
+{
+    "stratagems": [
+        {
+            "Offensive: Orbital": [
+                {
+                    "name": "Orbital Precision Strike",
+                    "input_code": ["keyboard.Key.right", "keyboard.Key.right", "keyboard.Key.up"]
+                },
+                {
+                    "name": "Orbital Gatling Barrage",
+                    "input_code": ["keyboard.Key.right", "keyboard.Key.down", "keyboard.Key.left", "keyboard.Key.up", "keyboard.Key.up"]
+                },
+                {
+                    "name": "Orbital Airburst Strike",
+                    "input_code": ["keyboard.Key.right", "keyboard.Key.right", "keyboard.Key.right"]
+                },
+                {
+                    "name": "Orbital Napalm Barrage",
+                    "input_code": ["keyboard.Key.right", "keyboard.Key.right", "keyboard.Key.down", "keyboard.Key.left", "keyboard.Key.right", "keyboard.Key.up"]
+                },
+                {
+                    "name": "Orbital 120MM HE Barrage",
+                    "input_code": ["keyboard.Key.right", "keyboard.Key.right", "keyboard.Key.down", "keyboard.Key.left", "keyboard.Key.right", "keyboard.Key.down"]
+                },
+                {
+                    "name": "Orbital Walking Barrage",
+                    "input_code": ["keyboard.Key.right", "keyboard.Key.down", "keyboard.Key.right", "keyboard.Key.down", "keyboard.Key.right", "keyboard.Key.down"]
+                },
+                {
+                    "name": "Orbital 380MM HE Barrage",
+                    "input_code": ["keyboard.Key.right", "keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.up", "keyboard.Key.left", "keyboard.Key.down", "keyboard.Key.down"]
+                },
+                {
+                    "name": "Orbital Railcannon Strike",
+                    "input_code": ["keyboard.Key.right", "keyboard.Key.up", "keyboard.Key.down", "keyboard.Key.down", "keyboard.Key.right"]
+                },
+                {
+                    "name": "Orbital Laser",
+                    "input_code": ["keyboard.Key.right", "keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.right", "keyboard.Key.down"]
+                },
+                {
+                    "name": "Orbital EMS Strike",
+                    "input_code": ["keyboard.Key.right", "keyboard.Key.right", "keyboard.Key.left", "keyboard.Key.down"]
+                },
+                {
+                    "name": "Orbital Gas Strike",
+                    "input_code": ["keyboard.Key.right", "keyboard.Key.right", "keyboard.Key.down", "keyboard.Key.right"]
+                },
+                {
+                    "name": "Orbital Smoke Strike",
+                    "input_code": ["keyboard.Key.right", "keyboard.Key.right", "keyboard.Key.down", "keyboard.Key.up"]
+                }
+            ],
+            "Offensive: Eagle": [
+                {
+                    "name": "Eagle 500kg Bomb",
+                    "input_code": ["keyboard.Key.up", "keyboard.Key.right", "keyboard.Key.down", "keyboard.Key.down", "keyboard.Key.down"]
+                },
+                {
+                    "name": "Eagle Strafing Run",
+                    "input_code": ["keyboard.Key.up", "keyboard.Key.right", "keyboard.Key.right"]
+                },
+                {
+                    "name": "Eagle 110MM Rocket Pods",
+                    "input_code": ["keyboard.Key.up", "keyboard.Key.right", "keyboard.Key.up", "keyboard.Key.left"]
+                },
+                {
+                    "name": "Eagle Airstrike",
+                    "input_code": ["keyboard.Key.up", "keyboard.Key.right", "keyboard.Key.down", "keyboard.Key.right"]
+                },
+                {
+                    "name": "Eagle Cluster Bomb",
+                    "input_code": ["keyboard.Key.up", "keyboard.Key.right", "keyboard.Key.down", "keyboard.Key.down", "keyboard.Key.right"]
+                },
+                {
+                    "name": "Eagle Napalm Airstrike",
+                    "input_code": ["keyboard.Key.up", "keyboard.Key.right", "keyboard.Key.down", "keyboard.Key.up"]
+                },
+                {
+                    "name": "Eagle Smoke Strike",
+                    "input_code": ["keyboard.Key.up", "keyboard.Key.right", "keyboard.Key.up", "keyboard.Key.down"]
+                }
+            ],
+            "Supply: Support Weapons": [
+                {
+                    "name": "CQC-1 One True Flag",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.left", "keyboard.Key.right", "keyboard.Key.right", "keyboard.Key.up"]
+                },
+                {
+                    "name": "MG-43 Machine Gun",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.left", "keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.right"]
+                },
+                {
+                    "name": "M-105 Stalwart",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.left", "keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.up", "keyboard.Key.left"]
+                },
+                {
+                    "name": "MG-206 Heavy Machine Gun",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.left", "keyboard.Key.up", "keyboard.Key.down", "keyboard.Key.down"]
+                },
+                {
+                    "name": "RS-422 Railgun",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.right", "keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.left", "keyboard.Key.right"]
+                },
+                {
+                    "name": "APW-1 Anti-Material Rifle",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.left", "keyboard.Key.right", "keyboard.Key.up", "keyboard.Key.down"]
+                },
+                {
+                    "name": "GL-21 Grenade Launcher",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.left", "keyboard.Key.up", "keyboard.Key.left", "keyboard.Key.down"]
+                },
+                {
+                    "name": "GL-52 De-Escalator",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.right", "keyboard.Key.up", "keyboard.Key.left", "keyboard.Key.right"]
+                },
+                {
+                    "name": "TX-41 Sterilizer",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.left", "keyboard.Key.up", "keyboard.Key.down", "keyboard.Key.left"]
+                },
+                {
+                    "name": "FLAM-40 Flamethrower",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.left", "keyboard.Key.up", "keyboard.Key.down", "keyboard.Key.up"]
+                },
+                {
+                    "name": "LAS-98 Laser Cannon",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.left", "keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.left"]
+                },
+                {
+                    "name": "LAS-99 Quasar Cannon",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.left", "keyboard.Key.right"]
+                },
+                {
+                    "name": "ARC-3 Arc Thrower",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.right", "keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.left", "keyboard.Key.left"]
+                },
+                {
+                    "name": "MLS-4X Commando",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.left", "keyboard.Key.up", "keyboard.Key.down", "keyboard.Key.right"]
+                },
+                {
+                    "name": "EAT-17 Expendable Anti-tank",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.down", "keyboard.Key.left", "keyboard.Key.up", "keyboard.Key.right"]
+                },
+                {
+                    "name": "AC-8 Autocannon",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.left", "keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.up", "keyboard.Key.right"]
+                },
+                {
+                    "name": "RL-77 Airburst Rocket Launcher",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.up", "keyboard.Key.left", "keyboard.Key.right"]
+                },
+                {
+                    "name": "FAF-14 Spear Launcher",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.down", "keyboard.Key.down"]
+                },
+                {
+                    "name": "StA-X3 W.A.S.P Launcher",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.down", "keyboard.Key.right"]
+                },
+                {
+                    "name": "GR-8 Recoilless Rifle",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.left", "keyboard.Key.right", "keyboard.Key.right", "keyboard.Key.left"]
+                }
+            ],
+            "Supply: Backpacks": [
+                {
+                    "name": "B-1 Supply Pack",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.left", "keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.up", "keyboard.Key.down"]
+                },
+                {
+                    "name": "B-100 Portable Hellbomb",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.right", "keyboard.Key.up", "keyboard.Key.up", "keyboard.Key.up"]
+                },
+                {
+                    "name": "LIFT-860 Hover Pack",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.up", "keyboard.Key.down", "keyboard.Key.left", "keyboard.Key.right"]
+                },
+                {
+                    "name": "LIFT-850 Jump Pack",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.up", "keyboard.Key.down", "keyboard.Key.up"]
+                },
+                {
+                    "name": "SH-32 Shield Generator Pack",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.left", "keyboard.Key.right", "keyboard.Key.left", "keyboard.Key.right"]
+                },
+                {
+                    "name": "SH-51 Directional Shield Backpack",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.left", "keyboard.Key.right", "keyboard.Key.up", "keyboard.Key.up"]
+                },
+                {
+                    "name": "SH-20 Ballistic Shield Backpack",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.left", "keyboard.Key.down", "keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.left"]
+                },
+                {
+                    "name": "AX/ARC-3 \"Guard Dog\" K-9",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.left", "keyboard.Key.up", "keyboard.Key.right", "keyboard.Key.left"]
+                },
+                {
+                    "name": "AX/AR-23 \"Guard Dog\"",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.left", "keyboard.Key.up", "keyboard.Key.right", "keyboard.Key.down"]
+                },
+                {
+                    "name": "AX/LAS-5 \"Guard Dog\" Rover",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.left", "keyboard.Key.up", "keyboard.Key.right", "keyboard.Key.right"]
+                },
+                {
+                    "name": "AX/TX-13 \"Guard Dog\" Dog Breath",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.left", "keyboard.Key.up", "keyboard.Key.right", "keyboard.Key.up"]
+                }
+            ],
+            "Supply: Vehicles": [
+                {
+                    "name": "M-102 Fast Recon Vehicle",
+                    "input_code": ["keyboard.Key.left", "keyboard.Key.down", "keyboard.Key.right", "keyboard.Key.down", "keyboard.Key.right", "keyboard.Key.down", "keyboard.Key.up"]
+                },
+                {
+                    "name": "EXO-49 Emancipator Exosuit",
+                    "input_code": ["keyboard.Key.left", "keyboard.Key.down", "keyboard.Key.right", "keyboard.Key.up", "keyboard.Key.left", "keyboard.Key.down", "keyboard.Key.up"]
+                },
+                {
+                    "name": "EXO-45 Patriot Exosuit",
+                    "input_code": ["keyboard.Key.left", "keyboard.Key.down", "keyboard.Key.right", "keyboard.Key.up", "keyboard.Key.left", "keyboard.Key.down", "keyboard.Key.down"]
+                }
+            ],
+            "Defensive": [
+                {
+                    "name": "A/G-16 Gatling Sentry",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.right", "keyboard.Key.left"]
+                },
+                {
+                    "name": "A/MG-43 Machine Gun Sentry",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.right", "keyboard.Key.right", "keyboard.Key.up"]
+                },
+                {
+                    "name": "E/FLAM-40 Flame Sentry",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.right", "keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.up"]
+                },
+                {
+                    "name": "A/MLS-4X Rocket Sentry",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.right", "keyboard.Key.right", "keyboard.Key.left"]
+                },
+                {
+                    "name": "A/AC-8 Autocannon Sentry",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.right", "keyboard.Key.up", "keyboard.Key.left", "keyboard.Key.up"]
+                },
+                {
+                    "name": "A/M-23 EMS Mortar Sentry",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.right", "keyboard.Key.down", "keyboard.Key.right"]
+                },
+                {
+                    "name": "A/M-12 Mortar Sentry",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.right", "keyboard.Key.right", "keyboard.Key.down"]
+                },
+                {
+                    "name": "FX-12 Shield Generator Relay",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.down", "keyboard.Key.left", "keyboard.Key.right", "keyboard.Key.left", "keyboard.Key.right"]
+                },
+                {
+                    "name": "E/GL-21 Grenadier Battlement",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.right", "keyboard.Key.down", "keyboard.Key.left", "keyboard.Key.right"]
+                },
+                {
+                    "name": "E/AT-12 Anti-Tank Emplacement",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.left", "keyboard.Key.right", "keyboard.Key.right", "keyboard.Key.right"]
+                },
+                {
+                    "name": "E/MG-101 HMG Emplacement",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.left", "keyboard.Key.right", "keyboard.Key.right", "keyboard.Key.left"]
+                },
+                {
+                    "name": "A/ARC-3 Tesla Tower",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.right", "keyboard.Key.up", "keyboard.Key.left", "keyboard.Key.right"]
+                },
+                {
+                    "name": "MD-17 Anti-Tank Mines",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.left", "keyboard.Key.up", "keyboard.Key.up"]
+                },
+                {
+                    "name": "MD-8 Gas Mines",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.left", "keyboard.Key.left", "keyboard.Key.right"]
+                },
+                {
+                    "name": "MD-6 Anit-Personnel Minefield",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.left", "keyboard.Key.up", "keyboard.Key.right"]
+                },
+                {
+                    "name": "MD-14 Incendiary Mines",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.left", "keyboard.Key.left", "keyboard.Key.down"]
+                }
+            ],
+            "Mission Stratagems": [
+                {
+                    "name": "Reinforce",
+                    "input_code": ["keyboard.Key.up", "keyboard.Key.down", "keyboard.Key.right", "keyboard.Key.left", "keyboard.Key.up"]
+                },
+                {
+                    "name": "SOS Beacon",
+                    "input_code": ["keyboard.Key.up", "keyboard.Key.down", "keyboard.Key.right", "keyboard.Key.up"]
+                },
+                {
+                    "name": "Resupply",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.right"]
+                },
+                {
+                    "name": "NUX-223 Hellbomb",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.left", "keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.right", "keyboard.Key.down", "keyboard.Key.up"]
+                },
+                {
+                    "name": "SSSD Delivery",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.down", "keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.up"]
+                },
+                {
+                    "name": "Seismic Probe",
+                    "input_code": ["keyboard.Key.up", "keyboard.Key.up", "keyboard.Key.left", "keyboard.Key.right", "keyboard.Key.down", "keyboard.Key.down"]
+                },
+                {
+                    "name": "Upload Data",
+                    "input_code": ["keyboard.Key.left", "keyboard.Key.right", "keyboard.Key.up", "keyboard.Key.up", "keyboard.Key.up"]
+                },
+                {
+                    "name": "Eagle Rearm",
+                    "input_code": ["keyboard.Key.up", "keyboard.Key.up", "keyboard.Key.left", "keyboard.Key.up", "keyboard.Key.right"]
+                },
+                {
+                    "name": "SEAF Artillery",
+                    "input_code": ["keyboard.Key.right", "keyboard.Key.up", "keyboard.Key.up", "keyboard.Key.down"]
+                },
+                {
+                    "name": "Super Earth flag",
+                    "input_code": ["keyboard.Key.down", "keyboard.Key.up", "keyboard.Key.down", "keyboard.Key.up"]
+                },
+                {
+                    "name": "Hive Breaker Drill",
+                    "input_code": ["keyboard.Key.left", "keyboard.Key.up", "keyboard.Key.down", "keyboard.Key.right", "keyboard.Key.down", "keyboard.Key.down"]
+                }
+            ]
+        }
+    ]
+}
